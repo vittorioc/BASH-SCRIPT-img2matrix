@@ -6,7 +6,7 @@ Bash script to convert an image to a matrix, using grayscale information (0=blac
 
 Install (it needs convert, identify from imagemagick and pnmtoplainpnm from netpbm):
   
-    $ sudo apt-get install imagemagick nettpbm
+    $ sudo apt-get install imagemagick netpbm
 
 Usage:
 
